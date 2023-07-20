@@ -1,0 +1,26 @@
+{
+
+    "faction": "enigma do medo",
+
+    "contact": "dergred",
+
+    "templates": [
+
+        {
+
+            "name": "Enigma Do Medo",
+
+            "sources": [
+
+                "https://media.discordapp.net/attachments/1127144179819085865/1131715794309492766/edm.png"
+
+            ],
+
+            "x": 264,
+
+            "y": 413
+
+        }
+    ]
+}
+
