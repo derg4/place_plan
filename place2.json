@@ -1,0 +1,32 @@
+{
+
+    "faction": "test",
+
+    "contact": "dergred on discord",
+
+    "templates": [
+
+        {
+
+            "name": "lupi test 2",
+
+            "sources": [
+
+                "https://cdn.discordapp.com/attachments/800810608673030155/1131693070568673310/place2_pic.png"
+
+            ],
+
+            "priorityMaskSources": [
+
+                "https://media.discordapp.net/attachments/800810608673030155/1131693083034136706/place2_pri.png"
+
+            ],
+
+            "x": 648,
+
+            "y": 672
+
+        }
+    ]
+}
+
